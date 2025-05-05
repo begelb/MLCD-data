@@ -1,1 +1,1 @@
-
+The data in this repository accompanies the repository [Machine Learned Cubical Decomposition](https://github.com/begelb/MLCD) and was produced using code therein written by [Paul Tatasciore](https://github.com/paultat91).
